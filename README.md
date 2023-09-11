@@ -1,6 +1,12 @@
 # CSE330
 Project submissions for CSE330 class at ASU 
 
+# TEAM MEMBERS
+Carlos
+Bhanu
+Austin
+Chris
+
 # PROJECT 1
 There was no issues whatsoever, everything compiled, the new kernel version was succesfully updated.
 All of the commands, including installing dependencies, went smooth.
